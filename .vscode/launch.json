@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem_46",
+            "request": "launch",
+            "mainClass": "problem_46",
+            "projectName": "Sword_offer_97868dc9"
+        }
+    ]
+}
