@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - dpdemo",
+            "request": "launch",
+            "mainClass": "dpdemo",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - problem_63",
             "request": "launch",
             "mainClass": "problem_63",
