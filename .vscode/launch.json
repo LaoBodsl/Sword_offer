@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Tencent1",
+            "request": "launch",
+            "mainClass": "Tencent1",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - demo",
             "request": "launch",
             "mainClass": "demo",
