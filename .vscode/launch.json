@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem5",
+            "request": "launch",
+            "mainClass": "problem5",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem4",
+            "request": "launch",
+            "mainClass": "problem4",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem3",
+            "request": "launch",
+            "mainClass": "problem3",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ByteDance1",
             "request": "launch",
             "mainClass": "ByteDance1",
