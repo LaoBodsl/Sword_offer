@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="system_sms" />
+        <module name="system_search" />
+        <module name="system_manager" />
+        <module name="system_eureka" />
+        <module name="system_common" />
+        <module name="system_friend" />
+        <module name="system_spit" />
+        <module name="system_gathering" />
+        <module name="system_config" />
+        <module name="system_user" />
+        <module name="system_qa" />
+        <module name="system_web" />
+        <module name="system_rabbitmqtest" />
+        <module name="system_base" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Social_system" target="1.8" />
+      <module name="system_article" target="1.5" />
+      <module name="system_base" target="1.8" />
+      <module name="system_common" target="1.8" />
+      <module name="system_config" target="1.8" />
+      <module name="system_eureka" target="1.8" />
+      <module name="system_friend" target="1.8" />
+      <module name="system_gathering" target="1.8" />
+      <module name="system_manager" target="1.8" />
+      <module name="system_qa" target="1.8" />
+      <module name="system_rabbitmqtest" target="1.8" />
+      <module name="system_recruit" target="1.5" />
+      <module name="system_search" target="1.8" />
+      <module name="system_sms" target="1.8" />
+      <module name="system_spit" target="1.8" />
+      <module name="system_user" target="1.8" />
+      <module name="system_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="system_article" options="-parameters" />
+      <module name="system_base" options="-parameters" />
+      <module name="system_common" options="-parameters" />
+      <module name="system_config" options="-parameters" />
+      <module name="system_eureka" options="-parameters" />
+      <module name="system_friend" options="-parameters" />
+      <module name="system_gathering" options="-parameters" />
+      <module name="system_manager" options="-parameters" />
+      <module name="system_qa" options="-parameters" />
+      <module name="system_rabbitmqtest" options="-parameters" />
+      <module name="system_recruit" options="-parameters" />
+      <module name="system_search" options="-parameters" />
+      <module name="system_sms" options="-parameters" />
+      <module name="system_spit" options="-parameters" />
+      <module name="system_user" options="-parameters" />
+      <module name="system_web" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Social_system.iml" filepath="$PROJECT_DIR$/Social_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system_base/system_base.iml" filepath="$PROJECT_DIR$/system_base/system_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system_common/system_common.iml" filepath="$PROJECT_DIR$/system_common/system_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system_config/system_config.iml" filepath="$PROJECT_DIR$/system_config/system_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system_eureka/system_eureka.iml" filepath="$PROJECT_DIR$/system_eureka/system_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system_friend/system_friend.iml" filepath="$PROJECT_DIR$/system_friend/system_friend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system_gathering/system_gathering.iml" filepath="$PROJECT_DIR$/system_gathering/system_gathering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system_manager/system_manager.iml" filepath="$PROJECT_DIR$/system_manager/system_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system_qa/system_qa.iml" filepath="$PROJECT_DIR$/system_qa/system_qa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system_rabbitmqtest/system_rabbitmqtest.iml" filepath="$PROJECT_DIR$/system_rabbitmqtest/system_rabbitmqtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system_search/system_search.iml" filepath="$PROJECT_DIR$/system_search/system_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system_sms/system_sms.iml" filepath="$PROJECT_DIR$/system_sms/system_sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system_spit/system_spit.iml" filepath="$PROJECT_DIR$/system_spit/system_spit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system_user/system_user.iml" filepath="$PROJECT_DIR$/system_user/system_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system_web/system_web.iml" filepath="$PROJECT_DIR$/system_web/system_web.iml" />
+    </modules>
+  </component>
+</project>
