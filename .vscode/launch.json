@@ -1,0 +1,158 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem38",
+            "request": "launch",
+            "mainClass": "problem38",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem34",
+            "request": "launch",
+            "mainClass": "problem34",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem322",
+            "request": "launch",
+            "mainClass": "problem322",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem32",
+            "request": "launch",
+            "mainClass": "problem32",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pack",
+            "request": "launch",
+            "mainClass": "pack",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem5",
+            "request": "launch",
+            "mainClass": "problem5",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem4",
+            "request": "launch",
+            "mainClass": "problem4",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem3",
+            "request": "launch",
+            "mainClass": "problem3",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ByteDance1",
+            "request": "launch",
+            "mainClass": "ByteDance1",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tencent1",
+            "request": "launch",
+            "mainClass": "Tencent1",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - dpdemo",
+            "request": "launch",
+            "mainClass": "dpdemo",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem_63",
+            "request": "launch",
+            "mainClass": "problem_63",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem_60",
+            "request": "launch",
+            "mainClass": "problem_60",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem_59",
+            "request": "launch",
+            "mainClass": "problem_59",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem57",
+            "request": "launch",
+            "mainClass": "problem57",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem_56_2",
+            "request": "launch",
+            "mainClass": "Problem_56_2",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ORdemo",
+            "request": "launch",
+            "mainClass": "ORdemo",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem_48",
+            "request": "launch",
+            "mainClass": "problem_48",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem_47",
+            "request": "launch",
+            "mainClass": "problem_47",
+            "projectName": "Sword_offer_97868dc9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - problem_46",
+            "request": "launch",
+            "mainClass": "problem_46",
+            "projectName": "Sword_offer_97868dc9"
+        }
+    ]
+}
