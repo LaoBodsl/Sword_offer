@@ -5,14 +5,14 @@ spring:
     name: tensquare-article #指定服务名
   datasource:  
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.217.136:3306/tensquare_article?characterEncoding=UTF8
+    url: jdbc:mysql://192.168.58.128:3306/tensquare_article?characterEncoding=UTF8&useSSL=false
     username: root
     password: root
   jpa: 
     database: MySQL
     show-sql: true
   redis:
-    host: 192.168.217.136
+    host: 192.168.58.128
 eureka:
   client:
     service-url:
